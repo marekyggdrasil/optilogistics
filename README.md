@@ -4,6 +4,10 @@ Installing `glpk`
 
 Install `AMPL` syntax highlight in your text editor.
 
+Launch GLPK solver
+
+`glpsol --math file.mod`
+
 More example models:
 
 https://www3.nd.edu/~jeff/mathprog/
